@@ -1,0 +1,3 @@
+- Usar imagen de Pharo version 7.0 (en superiores eliminaron la clase matrix y es necesaria)
+- Asegurarse de pegar la carpeta "PiezasAjedrez" en la carpeta donde esta la imagen de pharo: Documentos ---> Pharo ---> Images ---> Pharo 7.0...
+- El programa inicia poniendo en el playground: Partida new.
